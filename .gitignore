@@ -1,0 +1,16 @@
+/codingan arduino
+/vendor/
+/.idea/
+/.vscode/
+chart.html
+database.php
+fetch_data.php
+get_data.php
+kirim lampu.php
+kirim lampulcd.php
+kirim.php
+save_data.php
+trim_data.php
+*.md
+LICENSE
+*.ino
